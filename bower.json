@@ -1,0 +1,24 @@
+{
+  "name": "jquery.textarea.resize.event.js",
+  "main": "jquery.textarea.resize.event.js",
+  "homepage": "https://github.com/antixrist/jquery.textarea.resize.event.js",
+  "authors": [
+    "antixrist <ya.antixrist@gmail.com>"
+  ],
+  "description": "",
+  "moduleType": [],
+  "keywords": [
+    "jquery",
+    "textarea",
+    "resize",
+    "event"
+  ],
+  "license": "WTFPL",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
